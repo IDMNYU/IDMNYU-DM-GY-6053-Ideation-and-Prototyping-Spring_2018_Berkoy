@@ -1,0 +1,274 @@
+### DM-GY 6053 Ideation and Prototyping
+##### Fall 2018 • Allison Berkoy • Mondays 6:00 - 9:20pm • 2MTC MAGNET 817
+
+# Schedule
+**All dates and assignments are subject to change at the discretion of the professor! GitHub and Slack are the official sources for all dates and assignments.**
+
+*GitHub & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on GitHub and Slack AND in person during class.*
+
+OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/training-calendar/" target="_blank">Tandon's MakerSpace.</a></strong>
+
+<table width="100%">
+<tr>
+    <th width="8%">wk</th>
+    <th width="46%">Class</th>
+    <th width="46%">Do For Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th>
+</tr>
+<tr>
+    <td valign="top">wk 1<p>Jan 22 </p></td>
+    <td valign="top">
+    <li>Overview of Course and Introductions</li>
+    <li>Discuss</li>
+<ul>
+      <li>Free Writing</li>
+      <li>Word Lists</li>
+      <li>Mind Maps</li>
+      <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
+    <li>Assignments: Process Website, Notebook or Sketchbook, Constant Input or Constant Output, Personal Inventory, Input Map</li>
+    </td>
+    <td valign="top">
+    <li>Phase 1: Discovery / Inspiration / Process:</li>
+    <ul>
+     <li> <a href= "http://teaching.polishedsolid.com/ip/mod1/content/index.html#/?_k=havep2"> Read: Module 1 (including links) </a></li>
+    <li> <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=mdqgrw"> Read Module 2 </a>
+
+    <li>Accept Slack Invitation when received</li>
+    <li> <a href = "process_website.md"> Process Website: set up. Post the URL on the Slack channel  </a> </li>
+    <li> <a href = "notebook_or_sketchbook.md"> Get a notebook or sketchbook </a></li>
+    <li>Post your <a href="constant_input_choices.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.)</li>
+    <li><a href = "personal_inventory.md">Personal Inventories</li> </a>
+    <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website</li>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 2<p>Jan 29</p>
+    </td>
+    <td valign="top">
+    <strong> Phase 1: Discovery / Inspiration / Process: </strong>
+
+    <li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker</li>
+    Discuss: <br>
+        <ul>
+    <li><a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a></li>
+    <li><a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
+    <li>Studio Critique Rules. Follow <a href="http://ardenbnb.ca/agreements.htm" target="_blank">The Four Agreements</a> by Don Miguel Ruiz</li>
+    <li> 5 phases</li>
+    <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
+    <li><a href="input_map.md">Input Maps</a></li>
+    <li><a href = "personal_inventory.md">Personal Inventories</li> </a>
+    <li>Pair students for <a href="classmate_discovery.md">Classmate Discovery</a></li>
+    <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
+    </ul>
+    </td>
+    <td valign="top">
+    <li> <a href="classmate_discovery.md">Classmate Discovery</a></li>
+     <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>
+     <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+     <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
+     <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site.</li>
+    <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
+    </td>
+</tr>
+<tr>
+<td valign="top"><p>Feb 4 (Sun)</p></td>
+<td valign="top"><strong><i>Last day to drop Spring 2018 classes and not receive a grade of "W"</i></strong></td><td valign="top"></td>
+</tr>
+<tr>
+    <td valign="top">wk 3<p>Feb 5</p></td>
+    <td valign="top"><strong> Phase 1: Discovery / Inspiration / Process: </strong>
+
+<li>Review Homework</li>
+<li> Present Classmate discovery </li>
+<li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery vs. Trello, etc.)</li>
+<li> Discuss: <a href = "creative_process.md">Creative Process Annotated Bibliography, Paper and Video </a>  and pair students</li>
+<li> Students: Swap contact details and schedule times to meet; Discuss and devise actionable tasks</li>
+<li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
+</td>
+    <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
+    <ul>
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=vzf1cn"> Read Module 4 </a> </li>
+     <li><a href = "creative_process.md">CPPABVD: </a>Each student is to create: <br> </li>
+     <ul>
+     <li> an individual annotated bibliography</li>
+     <li> mood board </li>
+     <li> an image or text storyboard.</li>  </ul>
+    <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> </ul>
+</td>
+</tr>
+<tr>
+    <td valign="top">wk 4<p>Feb 12</p></td>
+    <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
+    <li>Discuss Text vs. Image Storyboard</li>
+    <li>Discuss Process</li>
+    <li>Review Homework</li>
+    </td>
+    <td valign="top">
+    <ul>
+    <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
+    <li><a href = "creative_process.md">CPPABVD: </a></li><ul><li>Create Annotated Bibliography GROUP draft </li> <li>Image or Text GROUP Storyboard draft </li> <li>GROUP Animatic Draft</li> <li>Collaboratively Create outline for the paper </li></ul>
+     <li>Watch</li>
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
+        <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
+        <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+        </ul>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li> </ul>
+</td>
+</tr>
+<tr>
+    <td valign="top">wk 5<p>Feb 26 </p></td>
+    <td valign="top"> <strong> Phase 3: Design / Sketching / Mapping </strong> <br> <li>Review Homework</li>
+    <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
+    <td>
+    <ul>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively Create hybrid animatic/video draft or create video draft </li> <li>Collaboratively Iterate/Revise outline for the paper </li> </ul></ul>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 6 <p>Mar 5</p></td>
+    <td valign="top"><strong> Phase 4: Prototyping </strong> <br> Review Homework</td>
+    <td valign="top">
+    <ul>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details.</li>
+    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul>
+    <li>Collaboratively iterate hybrid animatic/video draft</li>
+    <li>Collaboratively create group draft of paper</li>
+    </ul> </ul>
+    </td>
+</tr>
+<tr>
+    <td valign="top"><p>Mar 12 (Mon)</p></td>
+    <td valign="top"><strong><i>NO CLASS NYU Spring Break</i></strong></td>
+    <td valign="top"></td>
+</tr>
+<tr>
+    <td valign="top">wk 7<p>Mar 19</p></td>
+    <td valign="top"><strong> Phase 4: Prototyping </strong> <br>Review Homework</td>
+    <td valign="top">
+    <ul>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively iterate hybrid animatic/video draft </li> <li>Collaboratively iterate group draft of paper</a></li> </ul>
+    <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) CPPABVD project </li>
+    </ul>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 8<p>Mar 26</p></td>
+    <td valign="top"><strong>Midterm Class Critique - Process Presentations</strong><strong> <br>Phase 5: Pitching & Presenting </strong> <br></td>
+    <td valign="top">
+    <ul>
+    <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your personal inventory), product, or service, and post it on your process website. See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
+    <li> <a href = "http://teaching.polishedsolid.com/ip/mod8/content/index.html#/?_k=6m31cj"> Read Module 8 </a> </li>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li>
+        <ul>
+        <li>Brainstorm themes</li>
+        <li>Ideation</li>
+        </ul>
+    </ul>
+    </td>
+</tr>
+<tr>
+    <td valign="top">Mar 30 (Fri)</td>
+    <td valign="top"><strong><p></p><i>Last Day to Withdraw</i></strong></td>
+    <td></td>
+</tr>
+<tr>
+    <td valign="top">wk 9<p>Apr 2</p></td>
+    <td valign="top">Review Homework</td>
+    <td valign="top">
+    <ul>
+    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of the following to your Process site:</li>
+    <ul>
+    <li>Ideation continued</li>
+    <li>Storytelling</li>
+    <li>Sketching and Mapping</li>
+    <li>Secondary Research</li>
+    </ul>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li> </ul>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 10<p>Apr 9</p></td>
+    <td valign="top">Review Homework</td>
+    <td valign="top">
+    <ul>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> </li>
+     <li> <a href = "narrative_timeline.md">Create the object evolution timeline for your Dystopia/Utopia Project </a></li>
+    <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
+    <ul>
+    <li>Storyboard Draft</li>
+    <li>Lo-fi Prototype Draft</li>
+    <li>Iterate Sketching and Mapping</li>
+    <li>Secondary Research</li>
+    </ul> </ul>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 11<p>Apr 16</p></td>
+    <td valign="top">Review Homework</td>
+    <td valign="top">
+    <ul>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
+        <ul>
+        <li>Storyboard Revision</li>
+        <li>Iterate Sketching and Mapping</li>
+        <li>Secondary Research</li>
+        <li>Iterate Lo-fi Prototype Delivery medium</li>
+        <li>Iterate Lo-fi Prototype Draft</li>
+        </ul>
+    </ul>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 12<p>Apr 23</p></td>
+    <td valign="top">Review Homework</td>
+    <td valign="top">
+    <ul>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
+    <ul>
+    <li>Storyboard Revision</li>
+    <li> Prototype Draft</li>
+    <li>Iterate Prototype Delivery medium</li>
+    </ul></ul>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 13<p>Apr 30</p></td>
+    <td valign="top">Review Homework <br> <strong>Review Constant Input Projects </strong></td>
+    <td valign="top">
+    <ul>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
+    <ul>
+    <li>Hi-Fidelity Prototype Draft</li>
+    <li>Hi-Fidelity Prototype Delivery medium</li>
+    </ul></ul></td>
+</tr>
+<tr>
+    <td valign="top">wk 14<p>May 7</p></td>
+     <td valign="top">Review Homework <br> <strong>Review Constant Input Projects </strong></td>
+    <td valign="top">
+    <ul>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
+    <ul>
+    <li>Hi-Fidelity Prototype Draft</li>
+    <li>Hi-Fidelity Prototype Delivery medium</li>
+    <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+</ul></td>
+</tr>
+<tr>
+    <td valign="top">wk 15<p>May 14</p></td>
+    <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></td>
+    <td valign="top">
+        </ul></ul>
+    </td>
+</tr>
+
+</tr>
+</table>
