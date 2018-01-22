@@ -1,5 +1,5 @@
 ### DM-GY 6053 Ideation and Prototyping
-##### Spring 2018 • Allison Berkoy • Mondays 6:00 - 9:20pm • 2MTC MAGNET 817
+##### Spring 2018 • Allison Berkoy • Mondays 6:30 - 9:20pm • 2MTC MAGNET 817
 
 # Schedule
 **All dates and assignments are subject to change at the discretion of the professor! Git and slack are the official sources for all dates and assignments.**
