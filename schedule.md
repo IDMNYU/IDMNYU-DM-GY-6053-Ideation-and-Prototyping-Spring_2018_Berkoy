@@ -1,10 +1,10 @@
 ### DM-GY 6053 Ideation and Prototyping
-##### Fall 2018 • Allison Berkoy • Mondays 6:00 - 9:20pm • 2MTC MAGNET 817
+##### Spring 2018 • Allison Berkoy • Mondays 6:00 - 9:20pm • 2MTC MAGNET 817
 
 # Schedule
-**All dates and assignments are subject to change at the discretion of the professor! GitHub and Slack are the official sources for all dates and assignments.**
+**All dates and assignments are subject to change at the discretion of the professor! Git and slack are the official sources for all dates and assignments.**
 
-*GitHub & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on GitHub and Slack AND in person during class.*
+*Git & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on git and slack  (announcement channel) AND in person during class.*
 
 OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/training-calendar/" target="_blank">Tandon's MakerSpace.</a></strong>
 
@@ -15,23 +15,27 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <th width="46%">Do For Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th>
 </tr>
 <tr>
-    <td valign="top">wk 1<p>Jan 22 </p></td>
+    <td valign="top">wk 1<p>Jan 22</p></td>
     <td valign="top">
-    <li>Overview of Course and Introductions</li>
+    <li>Course and Student Introductions</li>
+    <li>Overview of the Course & Syllabus </li>
     <li>Discuss</li>
-<ul>
-      <li>Free Writing</li>
+      <ul>
       <li>Word Lists</li>
       <li>Mind Maps</li>
       <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
-    <li>Assignments: Process Website, Notebook or Sketchbook, Constant Input or Constant Output, Personal Inventory, Input Map</li>
+       <li> <a href= "http://teaching.polishedsolid.com/ip/mod1/content/index.html#/?_k=havep2"> Module 1 </a></li>
+      </ul>
+      <li> Discuss: Assignment: Process Website </li>
+      <li> Discuss: Assignmnet: Notebook or Sketchbook</li>
+       <li>Discuss: Assignment: Constant Input or Constant Output</li>
+      <li> Discuss: Assignment: Personal Inventory </li>
+      <li> Discuss: Input Map </li>
     </td>
     <td valign="top">
     <li>Phase 1: Discovery / Inspiration / Process:</li>
-    <ul>
      <li> <a href= "http://teaching.polishedsolid.com/ip/mod1/content/index.html#/?_k=havep2"> Read: Module 1 (including links) </a></li>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=mdqgrw"> Read Module 2 </a>
-
     <li>Accept Slack Invitation when received</li>
     <li> <a href = "process_website.md"> Process Website: set up. Post the URL on the Slack channel  </a> </li>
     <li> <a href = "notebook_or_sketchbook.md"> Get a notebook or sketchbook </a></li>
@@ -45,10 +49,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td>
     <td valign="top">
     <strong> Phase 1: Discovery / Inspiration / Process: </strong>
-
-    <li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker</li>
+    <ul>
     Discuss: <br>
-        <ul>
     <li><a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a></li>
     <li><a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
     <li>Studio Critique Rules. Follow <a href="http://ardenbnb.ca/agreements.htm" target="_blank">The Four Agreements</a> by Don Miguel Ruiz</li>
@@ -65,7 +67,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
      <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>
      <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
-     <li>(OPTIONAL) Exit Through The Gift Shop (on Netflix or Youtube)</li>
      <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site.</li>
     <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     </td>
@@ -117,6 +118,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </td>
 </tr>
 <tr>
+<td valign="top"><p>Feb 19</p></td>
+<td valign="top"><strong><i>NO CLASS NYU President's Day</i></strong></td><td valign="top"></td>
+</tr>
+<tr>
     <td valign="top">wk 5<p>Feb 26 </p></td>
     <td valign="top"> <strong> Phase 3: Design / Sketching / Mapping </strong> <br> <li>Review Homework</li>
     <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
@@ -127,7 +132,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 6 <p>Mar 5</p></td>
+    <td valign="top">wk 6 <p>Mar 6</p></td>
     <td valign="top"><strong> Phase 4: Prototyping </strong> <br> Review Homework</td>
     <td valign="top">
     <ul>
@@ -140,7 +145,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td>
 </tr>
 <tr>
-    <td valign="top"><p>Mar 12 (Mon)</p></td>
+    <td valign="top"><p>Mar 12</p></td>
     <td valign="top"><strong><i>NO CLASS NYU Spring Break</i></strong></td>
     <td valign="top"></td>
 </tr>
@@ -156,8 +161,13 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2">
+</td>
+</tr>
+<tr>
     <td valign="top">wk 8<p>Mar 26</p></td>
-    <td valign="top"><strong>Midterm Class Critique - Process Presentations</strong><strong> <br>Phase 5: Pitching & Presenting </strong> <br></td>
+    <td valign="top"><strong>Last Day to drop. <br>Midterm Class Critique - Process Presentations</strong><strong> Phase 5: Pitching & Presenting </strong> <br></td>
     <td valign="top">
     <ul>
     <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your personal inventory), product, or service, and post it on your process website. See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
@@ -253,6 +263,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
     <td valign="top">wk 14<p>May 7</p></td>
      <td valign="top">Review Homework <br> <strong>Review Constant Input Projects </strong></td>
+    <li></li></li><br>
     <td valign="top">
     <ul>
     <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
@@ -266,9 +277,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">wk 15<p>May 14</p></td>
     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></td>
     <td valign="top">
+        <ul>
         </ul></ul>
     </td>
-</tr>
-
 </tr>
 </table>
