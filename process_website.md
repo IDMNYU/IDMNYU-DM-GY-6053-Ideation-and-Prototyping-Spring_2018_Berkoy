@@ -18,6 +18,7 @@ You have several options:
 * Get wordpress installed via sites.bxmc.poly.edu (see below) in a directory labeled **ip**
 * If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled **ip** (see below)
 * Alternatively create an **ip** directory if you already have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.
+* Create another dedicated website of your choice (SquareSpace, Cargo, Wix, Weebly, etc.). Some of these websites have added costs, and you'll want to review the platforms' features and limitations before locking in your choice.
 
 ### Wordpress via wp.nyu.edu
 [NYU Web Publishing](https://wp.nyu.edu/wp-login.php) makes creating a process website easy. Follow these steps, and in a few short minutes, you can have a simple, appealing site perfect for documenting your work in this course. 
@@ -42,7 +43,7 @@ If you don’t already have server space, please schedule an appointment with El
 Please remember to bring your laptop with you when you visit a session.
 
 If you choose wordpress on bxmc.poly.edu, set up your class website at
-  * http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip  
+  * http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip
 
 
 POST THE URL TO YOUR SITE in the SLACK channel "studentsites"
