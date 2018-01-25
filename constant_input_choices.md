@@ -8,7 +8,7 @@ Choose either for the entire semester. **Do not do both**:
 *   Discovery Log (Constant Input) or
 *   Creative Process Project (Constant Output).
 
-#### Discovery Log
+### Discovery Log
 
 *   Each week’s discovery log is due at least 1 hour BEFORE the beginning of class. However, I suggest that you don't wait until the last minute. I would suggest posting as you discover.
 *   Discovery logs can NOT be submitted after each due date.
@@ -24,7 +24,7 @@ What’s new and different in your life in the following categories? Why does it
 *   _Non-school Lectures, workshops, and documentaries._
 
 
-#### Personal Creative Process Project: Individual (or Collaborative), Daily, Weekly or Monthly
+### Personal Creative Process Project: Individual (or Collaborative), Daily, Weekly or Monthly
 
 *   Select a daily, weekly, bi-weekly, or monthly schedule for posting documentation of your Creative Process Project onto your process website. The schedule should reflect the scale of the project (more postings for smaller projects, fewer postings for more substantial projects).
     *   If weekly, at least 12 times
@@ -33,9 +33,9 @@ What’s new and different in your life in the following categories? Why does it
 * Optionally, use social media channels to promote your Creative Project.
 * The Process Project does NOT have to be digital or visual. It could be aural (i.e. music or soundscapes), culinary, a physical routine or performance project, etc.. **The main requirement is that it is a creative project and documented regularly.** Document through image, video, text and/or sound and/or whatever way is most fitting for your project.
 *   **Before our second class session, post the following onto your Process Website:**
- * a brief description of your Creative Process Project.
- * chosen schedule with specific dates.
- * what are your goals for the project?
+   *   a brief description of your Creative Process Project.
+   *   chosen schedule with specific dates.
+   *   what are your goals for the project?
 
 
 *   For Inspiration:
