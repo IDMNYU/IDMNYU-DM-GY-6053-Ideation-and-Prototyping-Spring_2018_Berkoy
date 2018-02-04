@@ -60,10 +60,6 @@ Research Paper Guidelines:
 
 The paper should be typed in 12-point font, double-spaced with 1 inch margins and 10 pages in length. Cite all references in MLA format. Works cited should be listed as such or as endnotes. Include any images, illustrations, or diagrams at the end of the paper (not counted towards the 10 pages) and reference them accordingly as “Fig. 1” (and so on).
 
-The Wikipedia Disclaimer: Nowadays, wikipedia is often the starting point for research – it’s quick, easy, and provides an acceptable overview of many subjects. However, for serious, sustained research Wikipedia should not be relied upon as a primary source. Use Wikipedia to familiarize yourself with your subject and to locate other sources for further research.
-You can access NYU’s central library here: http://library.nyu.edu/
-
-You can access NYU Tandon’s Bern Dibner Library here: http://library.poly.edu/
 
 ### Creative Process Video Documentary
 
