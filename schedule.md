@@ -108,11 +108,11 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
     <li><a href = "creative_process.md">CPPABVD: </a></li><ul><li>Create Annotated Bibliography GROUP draft </li> <li>Image or Text GROUP Storyboard draft </li> <li>GROUP Animatic Draft</li> <li>Collaboratively Create outline for the paper </li></ul>
-     <li>Watch</li>
+     <li>Watch (OPTIONAL - NOT REQUIRED)</li>
         <ul>
         <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
         <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
-        <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+        <li>Write OPTIONAL response to the Metal Gear Solid documentaries.</li>
         </ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li> </ul>
 </td>
