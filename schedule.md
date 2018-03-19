@@ -125,6 +125,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">wk 5<p>Feb 26 </p></td>
     <td valign="top"> <strong> Phase 3: Design / Sketching / Mapping </strong> <br> <li>Review Homework</li>
     <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
+    <li>Speculative Design Workshop: Inspiration</li>
     <td>
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
@@ -133,7 +134,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 6 <p>Mar 6</p></td>
-    <td valign="top"><strong> Phase 4: Prototyping </strong> <br> Review Homework</td>
+    <td valign="top"><strong> Phase 4: Prototyping </strong> <br>
+    <li>Review Homework</li>
+    <li>Speculative Design Workshop: Ideation</li>
+  </td>
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
@@ -151,7 +155,9 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 7<p>Mar 19</p></td>
-    <td valign="top"><strong> Phase 4: Prototyping </strong> <br>Review Homework</td>
+    <td valign="top"><strong> Phase 4: Prototyping </strong> <br><li>Review Homework</li>
+    <li>Speculative Design Workshop: Prototyping</li>
+    </td>
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
@@ -188,7 +194,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 9<p>Apr 2</p></td>
-    <td valign="top">Review Homework</td>
+    <td valign="top">
+    <li>Review Homework</li>
+<li>Ideation Exercise</li>
+</td>
     <td valign="top">
     <ul>
     <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of the following to your Process site:</li>
@@ -203,7 +212,9 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 10<p>Apr 9</p></td>
-    <td valign="top">Review Homework</td>
+    <td valign="top"><li>Review Homework</li>
+<li>MakerSpace Training Session</li>
+    </td>
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
@@ -237,7 +248,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 12<p>Apr 23</p></td>
-    <td valign="top">Review Homework</td>
+    <td valign="top">
+    <li>Review Homework</li>
+    <li>Guest Speaker</li>
+    </td>
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
