@@ -161,7 +161,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively iterate hybrid animatic/video draft </li> <li>Collaboratively iterate group draft of paper</a></li> </ul>
+    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively iterate hybrid animatic/video draft </li> <li>Collaboratively iterate and complete group draft of paper</a></li> <li>Post final paper to website AND send as PDF via DM on Slack</li><li>Embed video on website AND send video URL via DM on Slack</li></ul>
     <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) CPPABVD project </li>
     </ul>
     </td>
@@ -173,7 +173,9 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 8<p>Mar 26</p></td>
-    <td valign="top"><strong>Last Day to drop. <br>Midterm Class Critique - Process Presentations</strong><strong> Phase 5: Pitching & Presenting </strong> <br></td>
+    <td valign="top"><strong>Last Day to drop. <br>Midterm Class Critique - Process Presentations</strong><strong> Phase 5: Pitching & Presenting </strong> <br>
+  <li>Each group will have 15 minutes to present video + research findings + 5 minutes rapid critique </li>
+    </td>
     <td valign="top">
     <ul>
     <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your personal inventory), product, or service, and post it on your process website. See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
