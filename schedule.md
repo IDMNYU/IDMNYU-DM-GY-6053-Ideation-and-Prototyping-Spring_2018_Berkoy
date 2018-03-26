@@ -173,7 +173,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 8<p>Mar 26</p></td>
-    <td valign="top"><strong>Last Day to drop. <br>Midterm Class Critique - Process Presentations</strong><strong> Phase 5: Pitching & Presenting </strong> <br>
+    <td valign="top"><strong>Midterm Class Critique - Process Presentations</strong><strong> Phase 5: Pitching & Presenting </strong> <br>
   <li>Each group will have 15 minutes to present video + research findings + 5 minutes rapid critique </li>
     </td>
     <td valign="top">
