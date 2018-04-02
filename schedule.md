@@ -221,7 +221,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-     <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a>
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a></li>
 
     <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
     <ul>
