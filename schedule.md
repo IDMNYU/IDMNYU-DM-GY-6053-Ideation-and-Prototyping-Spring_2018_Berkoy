@@ -202,11 +202,12 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </td>
     <td valign="top">
     <ul>
-    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of the following to your Process site:</li>
+    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
     <ul>
     <li>Ideation continued</li>
-    <li>Storytelling</li>
-    <li>Sketching and Mapping</li>
+      <li>Sketching and Mapping</li>
+    <li>Draft framing story</li>
+    <li>Draft message</li>
     <li>Secondary Research</li>
     </ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li> </ul>
@@ -220,14 +221,15 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-     <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> </li>
-     <li> <a href = "narrative_timeline.md">Create the object evolution timeline for your Dystopia/Utopia Project </a></li>
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a>
+
     <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
     <ul>
-    <li>Storyboard Draft</li>
-    <li>Lo-fi Prototype Draft</li>
-    <li>Iterate Sketching and Mapping</li>
-    <li>Secondary Research</li>
+    <li>Iterate sketching and mapping</li>
+    <li>Iterate framing story and message</li>
+    </li><li> <a href = "narrative_timeline.md">Create the object evolution timeline for your Dystopia/Utopia Project </a></li>
+    <li>Create Lo-fi Prototype Draft</li>
+    <li>Continue Secondary Research</li>
     </ul> </ul>
     </td>
 </tr>
@@ -239,11 +241,9 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
         <ul>
-        <li>Storyboard Revision</li>
-        <li>Iterate Sketching and Mapping</li>
-        <li>Secondary Research</li>
+        <li>Continue iterations on all drafts from previous week</li>
+        <li>Continue Secondary Research</li>
         <li>Iterate Lo-fi Prototype Delivery medium</li>
-        <li>Iterate Lo-fi Prototype Draft</li>
         </ul>
     </ul>
     </td>
@@ -259,9 +259,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
     <ul>
-    <li>Storyboard Revision</li>
-    <li> Prototype Draft</li>
-    <li>Iterate Prototype Delivery medium</li>
+    <li>Continue iterations on all drafts from previous week</li>
+    <li>Continue Secondary Research</li>
     </ul></ul>
     </td>
 </tr>
@@ -272,8 +271,9 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
     <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
     <ul>
+    <li>Continue iterations on all drafts from previous week</li>
     <li>Hi-Fidelity Prototype Draft</li>
-    <li>Hi-Fidelity Prototype Delivery medium</li>
+    <li>Hi-Fidelity Prototype Delivery Medium Draft</li>
     </ul></ul></td>
 </tr>
 <tr>
@@ -284,9 +284,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
     <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
     <ul>
-    <li>Hi-Fidelity Prototype Draft</li>
-    <li>Hi-Fidelity Prototype Delivery medium</li>
-    <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+      <li>Continue iterations</li>
+    <li>Finalize <a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
 </ul></td>
 </tr>
 <tr>

@@ -6,7 +6,7 @@
 
 _This project can be done as a team or as an individual._
 
-For the final project in this course, you will be creating a speculative design project. Speculative design also goes by many other names. Depending on who you talk to, they might call it: 
+For the final project in this course, you will be creating a speculative design project. Speculative design also goes by many other names. Depending on who you talk to, they might call it:
 
 * Critical Design
 * Design Fiction
@@ -16,15 +16,15 @@ For the final project in this course, you will be creating a speculative design 
 
 # Future Dystopia / Utopia Project
 
-Imagine our civilization 20 years from now. Things have either collapsed beyond repair or life has become a harmonious dream. Through some crazy combination of wormholes and string theory, you have the opportunity to create a piece of information that will be sent back to the current population. 
+Imagine our civilization 20 years from now. Things have either collapsed beyond repair or life has become a harmonious dream. Through some crazy combination of wormholes and string theory, you have the opportunity to create a piece of information that will be sent back to the current population.
 
-* What does your imagined future look, sound, and feel like? (your framing story)
+* What does your imagined future look, sound, and feel like? (your **framing story**)
 
-* What message would you transmit to the current population from the future?
+* What **message** would you transmit to the current population from the future?
 
-* You will brainstorm, research, sketch, map, design, and build physical prototypes of an object(s) from your imagined future.
+* You will brainstorm, research, sketch, map, design, and build **physical prototypes of an object(s)** from your imagined future.
 
-* You will deliver your message in any final medium(s) you choose. The only requirement is that it includes image(s), physical or virtual model(s), or video(s) of your prototyped physical object(s).
+* You will **deliver your message in any final medium(s) you choose**. The only requirement is that it includes image(s), physical or virtual model(s), or video(s) of your prototyped physical object(s).
 
 I suggest brainstorming one or more of the following themes to get you started, but you will need to eventually drill down from these very broad themes to specificity:
 
@@ -47,4 +47,4 @@ I suggest brainstorming one or more of the following themes to get you started, 
 *   Technology
 *   Time
 
-
+**For details on Final Project Deliverables, see [End of Semester Deliverables](https://github.com/IDMNYU/IDMNYU-DM-GY-6053-Ideation-and-Prototyping-Spring_2018_Berkoy/blob/master/end-of-semester-deliverables.md).**
