@@ -22,5 +22,5 @@
 # ADDITIONAL DELIVERABLES
 
 <li> Direct message me on Slack a link to your (If Applicable) Constant Output Native Files <strong> Due May 14th </strong> </li>
-<li>Direct message me on Slack <a href = "I&P_final_self_assessment_2017.pdf"> Final Self Assessment as pdf  </a><strong>  Due May 15th 11:59 pm </strong> </li>
+<li>Direct message me on Slack <a href = "final_self_assessment_2018.pdf"> Final Self Assessment as pdf  </a><strong>  Due May 15th 11:59 pm </strong> </li>
 <Li>Write a letter to the next class or create a 1-2 minute video (.mov, .mp4, etc), giving them advice on how to reach their learning goals and get value out of this course. Send me this document via Slack Direct message <strong> Due May 15th 11:59 pm </strong></li>
